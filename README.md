@@ -25,6 +25,7 @@ Claude chains the right skills automatically — scoping flows into proposals, m
 
 ```bash
 git clone https://github.com/pganti/zstack.git ~/.claude/skills/zstack
+cd ~/.claude/skills/zstack && mv */ ../
 ```
 
 **Claude Desktop (Cowork):**
